@@ -3,6 +3,6 @@
 # Настройки для сборки документации
 
 # Путь к документации в исходном коде
-source_suffix = '.rst'
-master_doc = 'index'
+source_suffix = '.md'
+master_doc = 'README'
 
